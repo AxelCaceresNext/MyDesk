@@ -1,0 +1,6 @@
+@MyDesk.Backend_HostAddress = http://localhost:5014
+
+GET {{MyDesk.Backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
